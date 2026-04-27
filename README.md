@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 ## More information
-<!--
+
 - 🔭 I’m currently working on ..-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
