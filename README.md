@@ -6,6 +6,7 @@
 
 Here are some ideas to get you started:
 -->
+## More information
 <!--
 - 🔭 I’m currently working on ..-
 - 🌱 I’m currently learning ...
